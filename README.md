@@ -10,18 +10,8 @@
 🔀 2. Workflow & Data Lineage Diagram
 กระบวนการไหลของข้อมูลและการจัดเก็บในคลังข้อมูล:
 
-Plaintext
-[ ปัจจัยภายนอก: Weather / Holidays ] ──┐
-                                        🔽
-[ Master Data ] 🏢🏭👥 ─────────▶ [ Sales & Stock Transactions ] 📊📦
-(Products / Stores / Customers)         │
-                                        🔽
-                        [ Central Database: SQLite (.db) ]
-                                        │
-                    ┌───────────────────┴───────────────────┐
-                    🔽                                      🔽
-       [ Data Export: CSV Files ]             [ Business Report: Excel (.xlsx) ]
-       (สำหรับ Model / Data Scientist)          (สำหรับผู้บริหาร / Business Analyst)
+![Uploading image.png…]()
+
 📖 3. Data Dictionary (บางส่วนที่เป็นแกนหลัก)
 sales_transaction: ตารางบันทึกประวัติธุรกรรมการขายหน้าร้าน (แกนหลักในการทำ Forecasting)
 

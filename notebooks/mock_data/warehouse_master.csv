@@ -1,0 +1,4 @@
+﻿warehouse_id,warehouse_name,location,capacity_pallets,has_cold_storage
+WH001,WH_central,Bangkok,50000,1
+WH002,WH_regional_north,Chiang Mai,20000,0
+WH003,WH_regional_south,Chonburi,30000,1

@@ -1,0 +1,501 @@
+﻿customer_id,customer_taxonomies,acquisition_channel,is_loyalty_member,registration_date,province
+CUST001,regular,Walk-in,1,2024-02-09,ลพบุรี
+CUST002,new,TikTok,1,2025-12-27,ลำปาง
+CUST003,high_value,Organic,1,2026-03-31,ระนอง
+CUST004,high_value,TikTok,1,2024-12-29,เลย
+CUST005,high_value,Walk-in,1,2026-05-19,อุตรดิตถ์
+CUST006,regular,Walk-in,1,2025-08-30,กรุงเทพมหานคร
+CUST007,regular,FB Ads,0,2024-07-19,สมุทรปราการ
+CUST008,new,Organic,0,2024-04-08,เชียงใหม่
+CUST009,high_value,TikTok,0,2024-04-15,สกลนคร
+CUST010,new,Walk-in,0,2026-05-09,นนทบุรี
+CUST011,new,Walk-in,0,2023-11-14,สงขลา
+CUST012,new,TikTok,1,2026-01-30,สมุทรสงคราม
+CUST013,occasional,FB Ads,0,2023-10-27,สุรินทร์
+CUST014,high_value,Walk-in,0,2024-11-23,นครนายก
+CUST015,high_value,Organic,0,2024-12-03,ชลบุรี
+CUST016,occasional,Walk-in,0,2024-07-03,กรุงเทพ
+CUST017,occasional,Organic,1,2024-02-29,กำแพงเพชร
+CUST018,high_value,TikTok,1,2026-02-26,จันทบุรี
+CUST019,occasional,Organic,1,2024-11-02,สตูล
+CUST020,new,TikTok,0,2023-08-23,ฉะเชิงเทรา
+CUST021,regular,Organic,0,2024-09-05,ลำปาง
+CUST022,new,TikTok,1,2024-12-14,นครสวรรค์
+CUST023,high_value,Organic,0,2025-10-31,สกลนคร
+CUST024,occasional,FB Ads,0,2025-01-03,เพชรบูรณ์
+CUST025,regular,Organic,1,2023-08-23,สกลนคร
+CUST026,high_value,Organic,1,2024-04-11,มุกดาหาร
+CUST027,occasional,FB Ads,1,2023-07-18,กรุงเทพฯ
+CUST028,regular,Walk-in,1,2024-10-05,สกลนคร
+CUST029,regular,Walk-in,1,2025-04-26,กำแพงเพชร
+CUST030,occasional,Organic,1,2025-02-24,อ่างทอง
+CUST031,regular,FB Ads,1,2023-07-17,ชุมพร
+CUST032,high_value,Organic,1,2025-07-11,แพร่
+CUST033,occasional,TikTok,0,2024-03-30,เชียงราย
+CUST034,new,TikTok,1,2023-08-29,สระแก้ว
+CUST035,high_value,Organic,0,2025-05-14,เชียงราย
+CUST036,high_value,Walk-in,0,2025-11-18,ราชบุรี
+CUST037,occasional,Walk-in,0,2025-03-02,ร้อยเอ็ด
+CUST038,occasional,Organic,1,2023-08-01,ชลบุรี
+CUST039,regular,Organic,1,2023-07-10,อุบลราชธานี
+CUST040,high_value,TikTok,0,2025-11-13,นครปฐม
+CUST041,regular,Walk-in,0,2025-10-16,มุกดาหาร
+CUST042,high_value,Organic,0,2024-10-02,อุทัยธานี
+CUST043,high_value,TikTok,1,2025-02-11,ตาก
+CUST044,new,Walk-in,1,2025-10-10,พัทลุง
+CUST045,high_value,FB Ads,0,2024-07-10,สิงห์บุรี
+CUST046,regular,TikTok,0,2025-06-15,กรุงเทพฯ
+CUST047,regular,Walk-in,0,2023-08-12,สระแก้ว
+CUST048,new,Walk-in,0,2024-04-26,นครพนม
+CUST049,regular,TikTok,1,2026-05-14,สุรินทร์
+CUST050,occasional,FB Ads,0,2025-04-15,กำแพงเพชร
+CUST051,new,TikTok,1,2023-09-18,ตาก
+CUST052,regular,Walk-in,1,2024-08-08,อุบลราชธานี
+CUST053,regular,Organic,0,2025-02-02,สิงห์บุรี
+CUST054,occasional,Organic,0,2024-07-24,ปราจีนบุรี
+CUST055,new,TikTok,1,2026-05-14,พิษณุโลก
+CUST056,occasional,Walk-in,1,2024-10-10,ลำพูน
+CUST057,new,Organic,0,2024-09-04,ลำปาง
+CUST058,new,Walk-in,1,2026-06-11,ปัตตานี
+CUST059,high_value,TikTok,0,2025-05-22,ปราจีนบุรี
+CUST060,regular,Organic,1,2025-11-22,อ่างทอง
+CUST061,regular,Walk-in,0,2023-10-14,พะเยา
+CUST062,high_value,Organic,0,2024-05-01,พัทลุง
+CUST063,occasional,TikTok,1,2024-09-17,สุโขทัย
+CUST064,high_value,Walk-in,1,2026-06-13,สงขลา
+CUST065,regular,Organic,1,2026-03-31,ปราจีนบุรี
+CUST066,regular,TikTok,1,2025-04-13,ชลบุรี
+CUST067,high_value,Organic,0,2025-03-07,กำแพงเพชร
+CUST068,high_value,Organic,1,2025-04-06,นครราชสีมา
+CUST069,high_value,FB Ads,0,2025-02-10,พะเยา
+CUST070,regular,FB Ads,1,2025-11-03,อุดรธานี
+CUST071,high_value,TikTok,0,2025-05-27,น่าน
+CUST072,high_value,FB Ads,0,2025-10-08,ลำปาง
+CUST073,occasional,TikTok,0,2026-05-22,กรุงเทพมหานคร
+CUST074,high_value,FB Ads,0,2023-08-27,อ่างทอง
+CUST075,regular,Organic,0,2025-05-17,เพชรบุรี
+CUST076,occasional,TikTok,1,2026-01-14,มหาสารคาม
+CUST077,new,TikTok,0,2025-11-07,ตราด
+CUST078,regular,Organic,0,2023-10-13,ตรัง
+CUST079,regular,TikTok,0,2024-04-22,สุโขทัย
+CUST080,new,TikTok,1,2025-08-04,ยะลา
+CUST081,regular,FB Ads,0,2025-02-03,เพชรบูรณ์
+CUST082,new,TikTok,0,2026-01-16,สุโขทัย
+CUST083,new,Walk-in,1,2023-07-05,ลำพูน
+CUST084,regular,Organic,1,2025-07-20,พระนครศรีอยุธยา
+CUST085,high_value,FB Ads,0,2024-10-16,ตรัง
+CUST086,high_value,FB Ads,0,2026-01-22,อุทัยธานี
+CUST087,new,Walk-in,0,2025-11-09,พิษณุโลก
+CUST088,occasional,Organic,1,2025-12-20,สิงห์บุรี
+CUST089,new,Organic,0,2025-12-09,นครปฐม
+CUST090,new,FB Ads,1,2024-09-13,พิษณุโลก
+CUST091,new,TikTok,1,2024-08-30,บุรีรัมย์
+CUST092,high_value,FB Ads,1,2024-06-12,ราชบุรี
+CUST093,high_value,Organic,0,2024-03-21,สิงห์บุรี
+CUST094,high_value,Walk-in,0,2023-09-30,น่าน
+CUST095,new,FB Ads,0,2023-08-17,กทม.
+CUST096,occasional,Organic,1,2025-11-29,อุทัยธานี
+CUST097,high_value,FB Ads,0,2023-10-18,อุตรดิตถ์
+CUST098,regular,TikTok,1,2025-06-02,กระบี่
+CUST099,regular,FB Ads,0,2025-12-09,ตรัง
+CUST100,regular,FB Ads,0,2025-07-08,สตูล
+CUST101,new,Organic,1,2023-11-05,ระนอง
+CUST102,regular,Organic,0,2025-02-09,กำแพงเพชร
+CUST103,new,Organic,1,2026-04-16,สุรินทร์
+CUST104,regular,FB Ads,0,2025-10-20,ราชบุรี
+CUST105,occasional,TikTok,0,2026-04-20,ปราจีนบุรี
+CUST106,new,Walk-in,1,2024-04-15,ปทุมธานี
+CUST107,regular,Walk-in,0,2023-10-05,อุทัยธานี
+CUST108,high_value,Organic,1,2025-11-18,ยะลา
+CUST109,new,Organic,0,2026-03-28,พะเยา
+CUST110,high_value,FB Ads,0,2023-08-05,อ่างทอง
+CUST111,high_value,Walk-in,0,2024-12-25,นครพนม
+CUST112,high_value,Organic,1,2023-09-27,พังงา
+CUST113,high_value,TikTok,0,2025-03-19,พังงา
+CUST114,regular,TikTok,0,2024-05-10,ตราด
+CUST115,regular,Organic,1,2024-09-05,สงขลา
+CUST116,new,Organic,1,2024-01-31,เลย
+CUST117,new,Walk-in,0,2023-08-30,สมุทรสาคร
+CUST118,new,Walk-in,0,2024-02-09,กทม.
+CUST119,regular,FB Ads,0,2024-02-23,กระบี่
+CUST120,new,Walk-in,0,2024-08-14,พังงา
+CUST121,high_value,TikTok,0,2026-01-14,ราชบุรี
+CUST122,regular,TikTok,1,2025-07-10,พิจิตร
+CUST123,new,Organic,1,2025-02-26,พระนครศรีอยุธยา
+CUST124,high_value,Walk-in,1,2024-02-11,น่าน
+CUST125,new,FB Ads,0,2024-12-06,ศรีสะเกษ
+CUST126,occasional,TikTok,1,2024-08-30,นราธิวาส
+CUST127,new,TikTok,0,2025-08-07,ชัยนาท
+CUST128,occasional,FB Ads,0,2025-02-11,กทม.
+CUST129,new,FB Ads,0,2024-11-16,เลย
+CUST130,new,TikTok,1,2025-03-22,พระนครศรีอยุธยา
+CUST131,regular,TikTok,0,2024-02-18,กำแพงเพชร
+CUST132,regular,FB Ads,1,2024-08-03,ตาก
+CUST133,occasional,TikTok,0,2023-09-23,สงขลา
+CUST134,regular,Organic,1,2023-06-29,น่าน
+CUST135,high_value,Organic,1,2023-06-17,สระแก้ว
+CUST136,high_value,FB Ads,0,2025-12-04,สมุทรสาคร
+CUST137,occasional,Walk-in,1,2025-04-06,สุราษฎร์ธานี
+CUST138,high_value,FB Ads,1,2025-01-20,อุบลราชธานี
+CUST139,high_value,FB Ads,0,2024-01-16,พะเยา
+CUST140,new,Walk-in,0,2025-08-19,น่าน
+CUST141,regular,Walk-in,0,2025-09-13,พะเยา
+CUST142,high_value,Walk-in,0,2026-05-06,ระนอง
+CUST143,high_value,Organic,0,2025-01-03,สมุทรปราการ
+CUST144,regular,TikTok,1,2025-06-17,ปัตตานี
+CUST145,high_value,Organic,1,2025-03-04,สุรินทร์
+CUST146,high_value,TikTok,1,2024-02-01,กาฬสินธุ์
+CUST147,regular,Organic,0,2025-03-16,พระนครศรีอยุธยา
+CUST148,new,TikTok,0,2024-07-15,ปัตตานี
+CUST149,high_value,Organic,0,2023-06-21,แพร่
+CUST150,regular,Walk-in,0,2025-06-08,แม่ฮ่องสอน
+CUST151,high_value,FB Ads,0,2023-10-15,กาญจนบุรี
+CUST152,high_value,Organic,1,2023-09-15,พะเยา
+CUST153,new,TikTok,0,2024-07-21,ราชบุรี
+CUST154,occasional,Walk-in,0,2024-12-09,ตราด
+CUST155,occasional,Organic,0,2026-06-16,ฉะเชิงเทรา
+CUST156,regular,Organic,1,2024-06-30,เชียงใหม่
+CUST157,occasional,Walk-in,0,2025-10-05,ชุมพร
+CUST158,regular,Organic,0,2023-11-26,นราธิวาส
+CUST159,occasional,FB Ads,0,2024-10-09,กาฬสินธุ์
+CUST160,new,Organic,0,2025-09-26,บุรีรัมย์
+CUST161,regular,FB Ads,0,2024-08-03,ยโสธร
+CUST162,occasional,FB Ads,0,2023-09-11,ระนอง
+CUST163,new,Walk-in,1,2024-08-26,สุโขทัย
+CUST164,occasional,Organic,0,2024-06-01,ภูเก็ต
+CUST165,high_value,Walk-in,0,2024-01-20,เลย
+CUST166,high_value,Organic,0,2025-11-26,สุพรรณบุรี
+CUST167,new,Organic,0,2023-11-10,พังงา
+CUST168,high_value,TikTok,0,2026-01-14,กรุงเทพฯ
+CUST169,high_value,Organic,0,2023-11-24,สมุทรสงคราม
+CUST170,regular,Walk-in,0,2025-04-06,ปัตตานี
+CUST171,occasional,FB Ads,1,2025-05-30,ลำปาง
+CUST172,regular,Organic,0,2023-12-11,ลพบุรี
+CUST173,occasional,TikTok,0,2026-06-02,นครราชสีมา
+CUST174,high_value,Walk-in,1,2023-12-19,ร้อยเอ็ด
+CUST175,regular,Organic,0,2025-06-23,เลย
+CUST176,occasional,Walk-in,0,2025-09-05,บึงกาฬ
+CUST177,occasional,TikTok,0,2024-02-03,ระนอง
+CUST178,regular,TikTok,0,2025-10-02,แม่ฮ่องสอน
+CUST179,new,Walk-in,1,2023-09-26,สุพรรณบุรี
+CUST180,occasional,Organic,1,2025-01-16,แม่ฮ่องสอน
+CUST181,high_value,FB Ads,1,2025-07-23,สระบุรี
+CUST182,occasional,TikTok,0,2025-04-30,น่าน
+CUST183,high_value,Organic,1,2024-12-28,ยะลา
+CUST184,regular,Organic,1,2025-11-25,กทม.
+CUST185,occasional,FB Ads,1,2026-03-31,ปัตตานี
+CUST186,high_value,TikTok,0,2025-06-01,พัทลุง
+CUST187,high_value,TikTok,0,2026-02-17,เพชรบุรี
+CUST188,regular,Organic,1,2024-12-13,อุบลราชธานี
+CUST189,occasional,Organic,1,2025-11-08,อ่างทอง
+CUST190,occasional,FB Ads,0,2026-02-02,บุรีรัมย์
+CUST191,regular,FB Ads,0,2025-04-06,เชียงใหม่
+CUST192,occasional,TikTok,1,2025-04-29,พระนครศรีอยุธยา
+CUST193,regular,Walk-in,0,2026-05-21,สมุทรสงคราม
+CUST194,occasional,TikTok,1,2026-02-04,ขอนแก่น
+CUST195,new,Organic,1,2024-06-03,ชุมพร
+CUST196,occasional,TikTok,0,2025-03-26,ลพบุรี
+CUST197,high_value,Walk-in,0,2023-09-06,พะเยา
+CUST198,high_value,FB Ads,0,2025-06-20,ระยอง
+CUST199,new,Walk-in,1,2026-02-02,พระนครศรีอยุธยา
+CUST200,occasional,Walk-in,0,2025-07-22,อ่างทอง
+CUST201,high_value,Walk-in,0,2023-10-18,ตราด
+CUST202,high_value,FB Ads,1,2025-09-22,สุรินทร์
+CUST203,occasional,Walk-in,0,2024-09-15,ฉะเชิงเทรา
+CUST204,regular,Walk-in,1,2024-11-01,นครสวรรค์
+CUST205,occasional,Walk-in,0,2024-10-29,สระบุรี
+CUST206,regular,Organic,1,2026-04-18,สิงห์บุรี
+CUST207,new,Walk-in,0,2024-10-23,แพร่
+CUST208,new,FB Ads,1,2026-01-16,เลย
+CUST209,high_value,Walk-in,0,2024-08-20,เพชรบูรณ์
+CUST210,high_value,Walk-in,0,2024-07-12,อ่างทอง
+CUST211,high_value,FB Ads,0,2024-12-06,อุดรธานี
+CUST212,regular,Walk-in,1,2025-10-28,กระบี่
+CUST213,high_value,FB Ads,0,2025-07-09,ชัยนาท
+CUST214,occasional,Walk-in,1,2025-07-25,พิษณุโลก
+CUST215,regular,FB Ads,0,2024-05-30,ขอนแก่น
+CUST216,new,Walk-in,1,2025-06-30,นครปฐม
+CUST217,regular,Walk-in,1,2026-01-16,แพร่
+CUST218,high_value,Organic,1,2025-11-16,สมุทรสาคร
+CUST219,occasional,Organic,0,2024-08-02,ตราด
+CUST220,occasional,Walk-in,0,2025-10-27,สุรินทร์
+CUST221,high_value,Walk-in,1,2024-06-15,นครสวรรค์
+CUST222,occasional,TikTok,0,2025-02-25,หนองบัวลำภู
+CUST223,regular,FB Ads,0,2023-12-02,พัทลุง
+CUST224,regular,TikTok,0,2026-01-22,กาญจนบุรี
+CUST225,high_value,Organic,0,2025-12-27,ชุมพร
+CUST226,occasional,Organic,0,2024-10-28,จันทบุรี
+CUST227,new,Organic,0,2023-11-10,ลำปาง
+CUST228,regular,Organic,1,2025-06-25,อุบลราชธานี
+CUST229,regular,Walk-in,1,2024-02-04,จันทบุรี
+CUST230,regular,Organic,0,2023-12-03,กทม.
+CUST231,regular,Walk-in,0,2024-08-19,สุโขทัย
+CUST232,new,Walk-in,1,2026-05-18,กาฬสินธุ์
+CUST233,high_value,Organic,1,2026-02-15,แม่ฮ่องสอน
+CUST234,regular,Organic,0,2024-07-22,ปราจีนบุรี
+CUST235,occasional,FB Ads,0,2025-07-18,สมุทรสาคร
+CUST236,new,TikTok,1,2026-03-25,สงขลา
+CUST237,regular,Organic,1,2025-01-17,นครปฐม
+CUST238,occasional,FB Ads,0,2023-10-21,กาฬสินธุ์
+CUST239,regular,FB Ads,0,2024-06-10,เพชรบุรี
+CUST240,high_value,TikTok,1,2023-10-29,ชัยนาท
+CUST241,new,Walk-in,1,2025-08-19,ชัยภูมิ
+CUST242,high_value,Organic,1,2024-08-11,ขอนแก่น
+CUST243,new,TikTok,0,2023-11-24,พิษณุโลก
+CUST244,regular,Organic,1,2026-05-07,เชียงราย
+CUST245,regular,FB Ads,1,2024-05-06,บุรีรัมย์
+CUST246,new,FB Ads,0,2025-04-29,ตรัง
+CUST247,occasional,Walk-in,1,2026-03-07,กรุงเทพ
+CUST248,occasional,FB Ads,0,2025-12-03,ตรัง
+CUST249,regular,FB Ads,1,2025-02-08,สมุทรสงคราม
+CUST250,regular,TikTok,1,2023-07-26,ศรีสะเกษ
+CUST251,high_value,Organic,1,2026-02-15,ชุมพร
+CUST252,regular,Organic,0,2025-05-15,เพชรบุรี
+CUST253,new,TikTok,0,2024-08-13,ลพบุรี
+CUST254,occasional,Walk-in,0,2024-03-08,นครราชสีมา
+CUST255,occasional,Organic,1,2023-06-30,สมุทรปราการ
+CUST256,high_value,FB Ads,0,2025-04-29,บุรีรัมย์
+CUST257,occasional,Organic,1,2024-03-30,สุรินทร์
+CUST258,occasional,FB Ads,1,2024-08-05,อุดรธานี
+CUST259,new,Walk-in,0,2023-12-16,กาฬสินธุ์
+CUST260,occasional,TikTok,1,2025-01-20,สุโขทัย
+CUST261,high_value,Organic,1,2025-08-21,แพร่
+CUST262,high_value,TikTok,1,2025-04-29,ชลบุรี
+CUST263,occasional,Organic,1,2023-06-19,กรุงเทพฯ
+CUST264,regular,FB Ads,1,2025-10-29,กาฬสินธุ์
+CUST265,occasional,TikTok,0,2023-08-15,นครนายก
+CUST266,high_value,Organic,0,2024-08-14,อุดรธานี
+CUST267,high_value,FB Ads,0,2024-01-19,ตรัง
+CUST268,new,TikTok,0,2023-09-18,กาญจนบุรี
+CUST269,occasional,TikTok,1,2024-04-28,นราธิวาส
+CUST270,occasional,Organic,1,2025-08-26,ปราจีนบุรี
+CUST271,new,Organic,1,2023-10-31,ตราด
+CUST272,high_value,Organic,0,2026-01-15,พิจิตร
+CUST273,new,FB Ads,1,2023-08-08,ราชบุรี
+CUST274,regular,Organic,0,2026-04-15,บึงกาฬ
+CUST275,occasional,TikTok,0,2024-08-12,สระแก้ว
+CUST276,high_value,TikTok,0,2026-05-21,ยโสธร
+CUST277,new,Organic,0,2024-01-09,ร้อยเอ็ด
+CUST278,high_value,Organic,1,2025-02-17,มุกดาหาร
+CUST279,regular,Walk-in,0,2026-04-14,นครพนม
+CUST280,occasional,TikTok,0,2023-08-26,นครปฐม
+CUST281,new,FB Ads,1,2023-11-08,เพชรบุรี
+CUST282,high_value,Walk-in,0,2024-08-02,กรุงเทพฯ
+CUST283,occasional,Organic,0,2025-10-25,หนองบัวลำภู
+CUST284,occasional,Organic,0,2025-08-02,พิษณุโลก
+CUST285,high_value,TikTok,0,2025-04-08,มหาสารคาม
+CUST286,occasional,Organic,0,2024-05-24,นครพนม
+CUST287,occasional,FB Ads,1,2026-02-10,สุราษฎร์ธานี
+CUST288,new,TikTok,1,2024-11-25,สมุทรสงคราม
+CUST289,occasional,Organic,0,2026-05-26,พิษณุโลก
+CUST290,new,TikTok,0,2025-07-31,กำแพงเพชร
+CUST291,occasional,Organic,1,2026-03-09,อุบลราชธานี
+CUST292,regular,Organic,1,2024-04-28,ยะลา
+CUST293,regular,Organic,0,2023-08-19,หนองบัวลำภู
+CUST294,new,FB Ads,0,2024-06-03,จันทบุรี
+CUST295,new,FB Ads,0,2023-08-10,สุโขทัย
+CUST296,regular,TikTok,1,2023-11-06,ลำพูน
+CUST297,occasional,Organic,1,2025-04-19,นครสวรรค์
+CUST298,new,Organic,1,2025-10-06,เพชรบุรี
+CUST299,high_value,FB Ads,0,2024-11-27,สิงห์บุรี
+CUST300,occasional,Organic,1,2025-01-23,น่าน
+CUST301,occasional,FB Ads,0,2025-06-27,ตราด
+CUST302,regular,Organic,1,2025-02-17,ชลบุรี
+CUST303,new,TikTok,0,2023-08-11,สตูล
+CUST304,occasional,Organic,0,2025-06-15,อุตรดิตถ์
+CUST305,new,Organic,0,2023-07-07,ศรีสะเกษ
+CUST306,new,Walk-in,1,2023-07-18,กทม.
+CUST307,new,FB Ads,1,2024-10-24,นครพนม
+CUST308,regular,Organic,1,2024-08-19,ลพบุรี
+CUST309,new,Organic,0,2024-01-29,ชลบุรี
+CUST310,regular,Walk-in,0,2023-11-06,ลำปาง
+CUST311,high_value,Walk-in,0,2023-08-15,สมุทรสงคราม
+CUST312,occasional,FB Ads,0,2024-08-13,กรุงเทพมหานคร
+CUST313,occasional,Walk-in,0,2023-09-27,ปทุมธานี
+CUST314,high_value,TikTok,1,2026-03-16,กทม.
+CUST315,regular,Walk-in,0,2025-02-17,นครนายก
+CUST316,occasional,TikTok,0,2025-05-05,อำนาจเจริญ
+CUST317,regular,FB Ads,1,2025-01-26,กาญจนบุรี
+CUST318,regular,FB Ads,0,2025-03-02,ยโสธร
+CUST319,regular,FB Ads,1,2023-07-03,กทม.
+CUST320,high_value,FB Ads,1,2025-05-02,สตูล
+CUST321,high_value,FB Ads,0,2024-08-17,นนทบุรี
+CUST322,regular,TikTok,1,2024-11-30,พังงา
+CUST323,new,TikTok,0,2023-09-29,สระแก้ว
+CUST324,high_value,FB Ads,1,2025-10-28,นครราชสีมา
+CUST325,new,Walk-in,1,2024-05-23,ราชบุรี
+CUST326,new,Organic,1,2025-01-05,พิษณุโลก
+CUST327,regular,FB Ads,1,2024-02-27,พิจิตร
+CUST328,new,Walk-in,0,2025-08-10,มุกดาหาร
+CUST329,new,Organic,1,2026-05-19,แม่ฮ่องสอน
+CUST330,new,FB Ads,0,2023-12-17,บึงกาฬ
+CUST331,regular,FB Ads,0,2026-05-09,กรุงเทพมหานคร
+CUST332,regular,TikTok,0,2025-09-28,ร้อยเอ็ด
+CUST333,high_value,Organic,0,2025-05-23,ชลบุรี
+CUST334,high_value,Organic,0,2023-10-13,สตูล
+CUST335,new,Walk-in,1,2025-08-25,สตูล
+CUST336,regular,TikTok,1,2025-12-04,เชียงราย
+CUST337,regular,TikTok,1,2024-06-13,สุราษฎร์ธานี
+CUST338,new,TikTok,0,2024-08-05,พัทลุง
+CUST339,high_value,TikTok,1,2025-01-24,นครปฐม
+CUST340,regular,Organic,0,2024-12-18,หนองคาย
+CUST341,high_value,Organic,0,2025-08-20,ชัยภูมิ
+CUST342,new,FB Ads,1,2023-08-31,ลำพูน
+CUST343,regular,FB Ads,0,2026-06-11,สิงห์บุรี
+CUST344,new,TikTok,1,2023-10-23,ปราจีนบุรี
+CUST345,occasional,TikTok,1,2024-02-05,ยะลา
+CUST346,new,TikTok,0,2025-05-28,สมุทรปราการ
+CUST347,new,FB Ads,0,2024-01-09,ปราจีนบุรี
+CUST348,new,Walk-in,0,2023-11-11,สระบุรี
+CUST349,regular,Walk-in,0,2024-06-21,พะเยา
+CUST350,new,FB Ads,1,2024-04-26,เชียงราย
+CUST351,new,FB Ads,0,2025-06-08,เพชรบูรณ์
+CUST352,occasional,FB Ads,0,2024-10-15,อ่างทอง
+CUST353,regular,FB Ads,0,2025-03-04,ตรัง
+CUST354,occasional,FB Ads,1,2026-06-10,หนองคาย
+CUST355,new,FB Ads,0,2024-10-31,เพชรบูรณ์
+CUST356,regular,TikTok,1,2024-11-12,สตูล
+CUST357,occasional,TikTok,1,2026-03-03,สงขลา
+CUST358,new,TikTok,0,2024-10-22,หนองคาย
+CUST359,high_value,TikTok,1,2023-11-24,สุรินทร์
+CUST360,occasional,FB Ads,0,2024-03-08,ประจวบคีรีขันธ์
+CUST361,regular,Walk-in,0,2024-12-12,บึงกาฬ
+CUST362,occasional,Organic,1,2023-09-30,มหาสารคาม
+CUST363,occasional,FB Ads,0,2024-12-26,มหาสารคาม
+CUST364,occasional,Organic,0,2024-01-16,อ่างทอง
+CUST365,high_value,Walk-in,0,2024-11-19,เลย
+CUST366,regular,TikTok,0,2023-11-30,เพชรบูรณ์
+CUST367,regular,Walk-in,0,2023-07-27,บุรีรัมย์
+CUST368,regular,FB Ads,0,2025-01-25,สมุทรสงคราม
+CUST369,new,TikTok,0,2024-09-10,บุรีรัมย์
+CUST370,regular,FB Ads,1,2025-06-21,ตรัง
+CUST371,regular,TikTok,0,2024-12-27,แพร่
+CUST372,high_value,Organic,1,2023-11-12,กาฬสินธุ์
+CUST373,new,Organic,0,2024-07-30,สุราษฎร์ธานี
+CUST374,new,Organic,0,2024-08-12,แม่ฮ่องสอน
+CUST375,occasional,Walk-in,1,2025-08-20,ตรัง
+CUST376,new,FB Ads,0,2026-02-02,นครราชสีมา
+CUST377,new,Walk-in,0,2024-01-15,สมุทรสาคร
+CUST378,high_value,Organic,1,2025-06-13,ลำพูน
+CUST379,regular,FB Ads,0,2024-08-22,แม่ฮ่องสอน
+CUST380,new,Organic,0,2024-06-18,อุตรดิตถ์
+CUST381,new,Walk-in,1,2023-09-09,สุโขทัย
+CUST382,high_value,Walk-in,0,2025-04-15,สิงห์บุรี
+CUST383,new,Walk-in,1,2026-04-05,ร้อยเอ็ด
+CUST384,new,Organic,0,2023-10-07,กาฬสินธุ์
+CUST385,high_value,FB Ads,0,2025-05-07,ระยอง
+CUST386,occasional,FB Ads,0,2026-05-19,สมุทรสงคราม
+CUST387,occasional,Organic,0,2024-12-28,ประจวบคีรีขันธ์
+CUST388,new,FB Ads,0,2025-12-21,ปัตตานี
+CUST389,new,Organic,0,2024-10-03,นครราชสีมา
+CUST390,regular,FB Ads,1,2025-11-24,พิจิตร
+CUST391,new,TikTok,0,2024-11-18,สุโขทัย
+CUST392,regular,TikTok,1,2026-01-08,สมุทรปราการ
+CUST393,occasional,Walk-in,0,2024-11-12,กรุงเทพฯ
+CUST394,new,TikTok,1,2024-06-03,อุบลราชธานี
+CUST395,new,TikTok,1,2025-07-14,พิจิตร
+CUST396,high_value,TikTok,1,2025-08-26,แม่ฮ่องสอน
+CUST397,new,Organic,0,2024-02-10,กาฬสินธุ์
+CUST398,occasional,TikTok,1,2024-05-02,พังงา
+CUST399,new,TikTok,0,2024-03-14,แพร่
+CUST400,regular,Walk-in,1,2025-05-04,หนองบัวลำภู
+CUST401,new,TikTok,1,2025-09-03,นนทบุรี
+CUST402,regular,TikTok,0,2023-10-31,กรุงเทพฯ
+CUST403,high_value,FB Ads,0,2024-06-30,ตราด
+CUST404,new,Walk-in,1,2023-08-15,ชลบุรี
+CUST405,high_value,Walk-in,0,2023-07-03,น่าน
+CUST406,high_value,Walk-in,0,2025-01-09,ฉะเชิงเทรา
+CUST407,new,Walk-in,0,2025-02-06,ระยอง
+CUST408,regular,Walk-in,1,2025-08-09,สุรินทร์
+CUST409,new,Walk-in,1,2023-11-25,ลำปาง
+CUST410,regular,Organic,0,2025-10-26,กำแพงเพชร
+CUST411,high_value,TikTok,1,2024-12-17,มุกดาหาร
+CUST412,occasional,Walk-in,0,2025-05-05,สตูล
+CUST413,new,TikTok,0,2025-05-15,กาฬสินธุ์
+CUST414,occasional,TikTok,0,2026-04-12,สุพรรณบุรี
+CUST415,regular,Organic,0,2025-02-23,เชียงราย
+CUST416,new,Walk-in,0,2024-03-21,เพชรบูรณ์
+CUST417,occasional,FB Ads,1,2026-03-08,น่าน
+CUST418,occasional,Organic,0,2025-06-23,เพชรบุรี
+CUST419,new,FB Ads,0,2023-08-14,กรุงเทพมหานคร
+CUST420,occasional,TikTok,0,2025-03-29,ชลบุรี
+CUST421,new,TikTok,0,2023-11-14,ตราด
+CUST422,occasional,Organic,0,2024-02-16,สงขลา
+CUST423,high_value,Organic,0,2024-01-15,อุดรธานี
+CUST424,new,FB Ads,0,2024-08-05,อุทัยธานี
+CUST425,high_value,Walk-in,0,2024-01-28,ชลบุรี
+CUST426,high_value,FB Ads,0,2024-09-06,เพชรบูรณ์
+CUST427,occasional,Organic,0,2025-06-01,นราธิวาส
+CUST428,regular,FB Ads,1,2024-01-17,อ่างทอง
+CUST429,high_value,Organic,1,2025-02-21,มหาสารคาม
+CUST430,high_value,FB Ads,1,2024-07-10,นครศรีธรรมราช
+CUST431,high_value,Organic,1,2025-04-26,ตราด
+CUST432,regular,Organic,1,2024-12-07,นครปฐม
+CUST433,regular,Organic,1,2024-08-10,สระบุรี
+CUST434,high_value,Walk-in,1,2023-07-27,กระบี่
+CUST435,regular,FB Ads,1,2023-12-18,เชียงราย
+CUST436,regular,FB Ads,0,2024-05-16,นนทบุรี
+CUST437,regular,FB Ads,0,2026-02-19,สงขลา
+CUST438,new,Organic,1,2023-06-25,สุพรรณบุรี
+CUST439,high_value,FB Ads,0,2023-12-02,สมุทรสงคราม
+CUST440,regular,FB Ads,1,2025-03-10,พระนครศรีอยุธยา
+CUST441,new,Organic,0,2023-12-30,สมุทรสงคราม
+CUST442,occasional,TikTok,0,2026-06-04,สุราษฎร์ธานี
+CUST443,occasional,Organic,1,2024-11-28,ฉะเชิงเทรา
+CUST444,regular,FB Ads,0,2024-10-10,น่าน
+CUST445,high_value,Organic,0,2025-08-15,ชัยภูมิ
+CUST446,regular,TikTok,0,2024-09-07,น่าน
+CUST447,occasional,Organic,0,2025-04-16,ศรีสะเกษ
+CUST448,high_value,FB Ads,0,2025-04-08,สตูล
+CUST449,high_value,TikTok,1,2023-12-07,บุรีรัมย์
+CUST450,occasional,Walk-in,0,2025-12-21,ชัยนาท
+CUST451,new,FB Ads,1,2023-07-29,เชียงใหม่
+CUST452,new,TikTok,0,2026-05-11,ขอนแก่น
+CUST453,regular,TikTok,0,2024-09-26,สิงห์บุรี
+CUST454,high_value,Walk-in,0,2025-05-08,นครพนม
+CUST455,regular,Organic,0,2026-04-04,สมุทรปราการ
+CUST456,high_value,Organic,1,2025-11-12,ปัตตานี
+CUST457,occasional,FB Ads,1,2025-06-17,ลำปาง
+CUST458,high_value,Walk-in,1,2024-05-26,สุรินทร์
+CUST459,high_value,Organic,1,2025-02-19,สมุทรปราการ
+CUST460,occasional,Walk-in,0,2026-03-05,ชัยภูมิ
+CUST461,new,Organic,1,2024-10-31,อุบลราชธานี
+CUST462,occasional,TikTok,1,2023-12-09,ปัตตานี
+CUST463,high_value,Organic,0,2026-06-04,กทม.
+CUST464,occasional,Walk-in,0,2025-02-23,แม่ฮ่องสอน
+CUST465,high_value,TikTok,0,2024-05-01,กาญจนบุรี
+CUST466,new,TikTok,0,2024-05-12,สมุทรปราการ
+CUST467,new,TikTok,1,2023-12-23,หนองบัวลำภู
+CUST468,high_value,Walk-in,1,2025-01-06,บึงกาฬ
+CUST469,new,FB Ads,0,2025-06-18,สมุทรสาคร
+CUST470,occasional,FB Ads,0,2025-11-16,พัทลุง
+CUST471,new,FB Ads,1,2025-02-25,แม่ฮ่องสอน
+CUST472,regular,Walk-in,0,2025-04-23,มุกดาหาร
+CUST473,new,TikTok,1,2025-06-07,สตูล
+CUST474,regular,FB Ads,1,2023-10-09,สตูล
+CUST475,occasional,Walk-in,0,2025-06-08,กาญจนบุรี
+CUST476,new,FB Ads,0,2026-04-29,ปัตตานี
+CUST477,new,Organic,0,2024-10-09,ยโสธร
+CUST478,new,FB Ads,1,2025-05-04,ขอนแก่น
+CUST479,occasional,FB Ads,0,2024-10-12,นครศรีธรรมราช
+CUST480,occasional,TikTok,1,2025-05-23,พะเยา
+CUST481,regular,Walk-in,1,2023-10-24,นราธิวาส
+CUST482,high_value,TikTok,0,2025-07-17,กรุงเทพมหานคร
+CUST483,occasional,TikTok,0,2025-12-28,ตราด
+CUST484,new,TikTok,0,2023-07-25,พระนครศรีอยุธยา
+CUST485,regular,TikTok,0,2026-02-03,อำนาจเจริญ
+CUST486,new,TikTok,0,2024-01-10,ขอนแก่น
+CUST487,new,FB Ads,0,2025-11-26,อ่างทอง
+CUST488,occasional,TikTok,1,2026-02-04,สงขลา
+CUST489,high_value,TikTok,0,2024-07-31,กำแพงเพชร
+CUST490,new,Walk-in,1,2023-09-03,ราชบุรี
+CUST491,occasional,Organic,1,2026-05-20,เพชรบูรณ์
+CUST492,regular,FB Ads,0,2023-07-29,ตราด
+CUST493,new,FB Ads,0,2026-03-26,มหาสารคาม
+CUST494,regular,FB Ads,1,2025-12-03,กระบี่
+CUST495,occasional,TikTok,1,2024-04-13,กรุงเทพมหานคร
+CUST496,occasional,TikTok,0,2024-07-14,อุตรดิตถ์
+CUST497,occasional,TikTok,1,2024-07-15,สุรินทร์
+CUST498,occasional,Walk-in,0,2025-02-16,จันทบุรี
+CUST499,occasional,Organic,0,2026-05-13,ภูเก็ต
+CUST500,high_value,TikTok,0,2023-12-01,ลำปาง

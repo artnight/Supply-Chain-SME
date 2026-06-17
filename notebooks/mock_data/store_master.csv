@@ -1,0 +1,11 @@
+﻿store_id,store_taxonomies,region,opening_year,sqft_size
+STORE001,convenience,Bangkok,2015,10000
+STORE002,suburban_medium,North,2021,1500
+STORE003,rural_small,Isan,2018,1500
+STORE004,suburban_medium,Bangkok,2016,1500
+STORE005,suburban_medium,North,2019,1500
+STORE006,rural_small,North,2016,10000
+STORE007,convenience,North,2019,3000
+STORE008,convenience,North,2017,1500
+STORE009,rural_small,North,2019,1500
+STORE010,suburban_medium,South,2022,10000

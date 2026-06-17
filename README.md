@@ -10,26 +10,8 @@
 🔀 2. Workflow & Data Lineage Diagram
 กระบวนการไหลของข้อมูลและการจัดเก็บในคลังข้อมูล:
 
-```mermaid
-graph TD
-    %% ปัจจัยนำเข้า
-    Weather[🌤️ Weather Data] --> Sales[📊 Sales & Stock Transactions]
-    Holidays[📅 Holiday Calendar] --> Sales
-    Products[📦 Product Master] --> Sales
-    Stores[🏢 Store Master] --> Sales
-    Customers[👥 Customer Master] --> Sales
-    
-    %% คลังจัดเก็บข้อมูลหลัก
-    Sales --> SQLite[🗄️ Central Database: SQLite .db]
-    
-    %% การกระจายข้อมูลออก
-    SQLite --> CSV[💾 Data Export: CSV Files<br>สำหรับ Model / Data Scientist]
-    SQLite --> Excel[📈 Business Report: Excel .xlsx<br>สำหรับผู้บริหาร / Business Analyst]
+<img width="612" height="640" alt="image" src="https://github.com/user-attachments/assets/32a63b36-5b78-4b05-981c-93847cb9da8c" />
 
-    %% ใส่สีสันให้สวยงาม
-    style SQLite fill:#fff2cc,stroke:#d6b656,stroke-width:2px
-    style CSV fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
-    style Excel fill:#d5e8d4,stroke:#82b366,stroke-width:1px
 
 📖 3. Data Dictionary (บางส่วนที่เป็นแกนหลัก)
 sales_transaction: ตารางบันทึกประวัติธุรกรรมการขายหน้าร้าน (แกนหลักในการทำ Forecasting)
